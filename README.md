@@ -6,7 +6,8 @@ I have also attached a word document for your references.
 
 ## Demo
 
-https://www.flexclip.com/share/54176422353942721a1c5947110f4f60cbc4b1a.html
+https://github.com/PavithraGopan/Interactive-Sales-Dashboard/assets/142516819/8093d1d4-0455-4707-87bc-0b302196def1
+
 
 
 ## Screenshots
